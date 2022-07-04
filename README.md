@@ -11,6 +11,9 @@ https://drive.google.com/drive/folders/17yMqEu8RFxIWSm_gHa1r0txcOImkw-Bj?usp=sha
 <img width="1440" alt="Screenshot 2022-07-04 at 7 04 28 AM" src="https://user-images.githubusercontent.com/60298946/177072871-696579d6-a535-4146-9747-0089fed76daf.png">
 
 
+<img width="1440" alt="Screenshot 2022-07-04 at 7 06 03 AM" src="https://user-images.githubusercontent.com/60298946/177073215-e70d257f-72cd-457b-907e-a84c4f255c5b.png">
+
+
 # Swagger UI
 <img width="1440" alt="Screenshot 2022-07-04 at 7 04 43 AM" src="https://user-images.githubusercontent.com/60298946/177072977-974fbb45-63ff-43dd-824e-ab75f3f1ba5d.png">
 
@@ -22,4 +25,3 @@ https://drive.google.com/drive/folders/17yMqEu8RFxIWSm_gHa1r0txcOImkw-Bj?usp=sha
 
 <img width="1440" alt="Screenshot 2022-07-04 at 7 05 42 AM" src="https://user-images.githubusercontent.com/60298946/177073153-0afea29c-cdb8-408c-9d15-2ed48b7b08c1.png">
 
-<img width="1440" alt="Screenshot 2022-07-04 at 7 06 03 AM" src="https://user-images.githubusercontent.com/60298946/177073215-e70d257f-72cd-457b-907e-a84c4f255c5b.png">
