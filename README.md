@@ -12,3 +12,4 @@ https://drive.google.com/drive/folders/17yMqEu8RFxIWSm_gHa1r0txcOImkw-Bj?usp=sha
 
 
 # Swagger UI
+<img width="1440" alt="Screenshot 2022-07-04 at 7 04 43 AM" src="https://user-images.githubusercontent.com/60298946/177072977-974fbb45-63ff-43dd-824e-ab75f3f1ba5d.png">
